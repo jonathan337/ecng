@@ -1,0 +1,62 @@
+.test
+{
+height:200px;
+width:100PX;
+border:solid;
+background-color: black;
+}
+
+.table
+{
+  font-family: 'Rock Salt', cursive;
+  letter-spacing: 1px;
+
+}
+
+.row2
+{
+  padding-left: 100px;
+}
+
+body
+{
+background-color: #00204a
+}
+
+body
+{
+  color:white;
+}
+
+.wrapper:link    {color:red;}
+.wrapper:visited {color:green;}
+.wrapper:hover   {color:yellow;}
+.wrapper:active  {color:pink;}
+
+title
+{
+color: red;
+}
+
+h1
+{
+  color: red
+}
+.jon
+{
+  width : 130%
+}
+.mustang
+{
+  width : 50%
+}
+
+.mustang {
+  border-radius: 50%;
+}
+
+
+
+h3{
+  color: red
+}
